@@ -1,0 +1,16 @@
+{
+  "linkIframe": [
+    {
+      "name": "Lista de Servidores",
+      "link": "",
+      "iconImage": "fas fa-user-friends",
+      "linkIframe": "http://187.122.248.215:8092/portal_pmgopa/app/portal_transparencia/0020"
+    },
+    {
+      "name": "Folha Pagamento",
+      "link": "",
+      "iconImage": "fas fa-money-check-alt",
+      "linkIframe": "http://187.122.248.215:8092/portal_pmgopa/app/portal_transparencia/0021"
+    }
+  ]
+}

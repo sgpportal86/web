@@ -1,0 +1,16 @@
+{
+  "linkIframe": [
+    {
+      "name": "Contratos",
+      "link": "",
+      "iconImage": "fas fa-file-contract",
+      "linkIframe": "http://187.122.248.215:8092/portal_pmgopa/app/portal_transparencia/0017"
+    },
+    {
+      "name": "Licitação",
+      "link": "",
+      "iconImage": "fas fa-file-signature",
+      "linkIframe": "http://187.122.248.215:8092/portal_pmgopa/app/portal_transparencia/0018"
+    }
+  ]
+}

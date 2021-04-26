@@ -1,0 +1,16 @@
+{
+  "linkIframe": [
+    {
+      "name": "Perguntas e Respostas",
+      "link": "",
+      "iconImage": "far fa-question-circle",
+      "linkIframe": "/perguntas-respostas"
+    },
+    {
+      "name": "Atendimento Direto",
+      "link": "",
+      "iconImage": "fas fa-phone-square-alt",
+      "linkIframe": "/atendimento-direto"
+    }
+  ]
+}

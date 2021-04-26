@@ -1,0 +1,77 @@
+{
+  "Orgao": {
+    "nome": "Prefeitura Municipal",
+    "apoio": "Controladoria Geral do Municipio",
+    "municipio": "Goianésia do Pará",
+    "endereço": {
+      "rua": "Pedro Soares de Oliveira",
+      "numero": "S/N",
+      "bairro": "Colegial",
+      "telefone": "(94) 3779-0393"
+    }
+  },
+  "PortalTransparencia": [
+    {
+      "name": "Informações Sobre o Municipio",
+      "link": "https://cidades.ibge.gov.br/brasil/pa/goianesia-do-para/panorama",
+      "iconImage": "fas fa-map-marked-alt"
+    },
+    {
+      "name": "Agenda do Prefeito",
+      "link": "/agenda-prefeito",
+      "iconImage": "far fa-calendar-alt",
+      "linkIframe": "http://187.122.248.215:8092/portal_pmgopa/app/portal_transparencia/0003"
+    },
+    {
+      "name": "Do Portal",
+      "link": "/do-portal",
+      "iconImage": "fas fa-sitemap",
+      "linkIframe": ""
+    },
+    {
+      "name": "Instrumento de Planejamento e Gestão Fiscal",
+      "link": "/instrumento-planejamento",
+      "iconImage": "fas fa-balance-scale-right"
+    },
+    {
+      "name": "Receitas e Despesas",
+      "link": "/receitas-despesas",
+      "iconImage": "fas fa-coins"
+    },
+    {
+      "name": "Atendimento ao Cidadão",
+      "link": "/atendimento-publico",
+      "iconImage": "fas fa-phone-square-alt"
+    },
+    {
+      "name": "Atos e Normativos",
+      "link": "/atos-normativos",
+      "iconImage": "fas fa-envelope-open-text"
+    },
+    {
+      "name": "Controle dos Bens Públicos",
+      "link": "/bens-publicos",
+      "iconImage": "fas fa-hotel"
+    },
+    {
+      "name": "Acompanhamento dos Programas e Ações",
+      "link": "/acompanhamento-programa-acoes",
+      "iconImage": "fas fa-tasks"
+    },
+    {
+      "name": "Relatório dos Projetos e Execução de Obras Públicas do Executivo Municipal",
+      "link": "/projeto-execucao-obras",
+      "iconImage": "fas fa-hard-hat"
+    },
+    {
+      "name": "Relatório Anual de Controle Interno",
+      "link": "/relatorio-anual-controle-interno",
+      "iconImage": "fas fa-info-circle"
+    },
+    {
+      "name": "Ações para Enfrentamento ao COVID-19",
+      "link": "/acoes-covid",
+      "iconImage": "fas fa-viruses"
+    }
+  ]
+}

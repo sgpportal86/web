@@ -1,0 +1,22 @@
+{
+  "linkIframe": [
+    {
+      "name": "Receitas",
+      "link": "",
+      "iconImage": "fas fa-hand-holding-usd",
+      "linkIframe": "/receitas-covid"
+    },
+    {
+      "name": "Despesas Gerais",
+      "link": "",
+      "iconImage": "fas fa-funnel-dollar",
+      "linkIframe": "/despesas-gerais-covid"
+    },
+    {
+      "name": "Acompanhamento Mensal de Progr. e Ações - COVID -19",
+      "link": "",
+      "iconImage": "fas fa-search-dollar",
+      "linkIframe": "/acompanhamento-mensal-programas-covid"
+    }
+  ]
+}

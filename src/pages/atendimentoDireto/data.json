@@ -1,0 +1,28 @@
+{
+  "linkIframe": [
+    {
+      "name": "SIC FÍSICO",
+      "link": "",
+      "iconImage": "fas fa-info-circle",
+      "linkIframe": "http://187.122.248.215:8092/portal_pmgopa/app/portal_transparencia/0038"
+    },
+    {
+      "name": "ESIC",
+      "link": "",
+      "iconImage": "fas fa-info",
+      "linkIframe": "http://187.122.248.215:81/esic-goianesia/index/"
+    },
+    {
+      "name": "Ouvidoria",
+      "link": "",
+      "iconImage": "fas fa-headset",
+      "linkIframe": "http://187.122.248.215:8092/portal_pmgopa/app/portal_transparencia/0024"
+    },
+    {
+      "name": "Fale Conosco",
+      "link": "",
+      "iconImage": "far fa-comment-dots",
+      "linkIframe": "http://187.122.248.215:8092/portal_pmgopa/app/portal_transparencia/0038"
+    }
+  ]
+}

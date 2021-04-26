@@ -1,0 +1,28 @@
+{
+  "linkIframe": [
+    {
+      "name": "Bens Móveis até 2017",
+      "link": "",
+      "iconImage": "fas fa-car",
+      "linkIframe": "http://187.122.248.215:8092/portal_pmgopa/app/portal_transparencia/0031"
+    },
+    {
+      "name": "Bens Móveis a partir de 2018",
+      "link": "",
+      "iconImage": "fas fa-truck-pickup",
+      "linkIframe": "http://187.122.248.215:8092/portal_pmgopa/app/portal_transparencia/0032"
+    },
+    {
+      "name": "Bens Imóveis até 2017",
+      "link": "",
+      "iconImage": "fas fa-home",
+      "linkIframe": "http://187.122.248.215:8092/portal_pmgopa/app/portal_transparencia/0033"
+    },
+    {
+      "name": "Bens Imóveis a partir de 2018",
+      "link": "",
+      "iconImage": "fas fa-hotel",
+      "linkIframe": "http://187.122.248.215:8092/portal_pmgopa/app/portal_transparencia/0032"
+    }
+  ]
+}

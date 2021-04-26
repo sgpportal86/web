@@ -1,0 +1,16 @@
+{
+  "linkIframe": [
+    {
+      "name": "Estrutura Organizacional",
+      "link": "",
+      "iconImage": "fas fa-sitemap",
+      "linkIframe": "http://187.122.248.215:8092/portal_pmgopa/app/portal_transparencia/0001"
+    },
+    {
+      "name": "Organograma",
+      "link": "",
+      "iconImage": "fas fa-project-diagram",
+      "linkIframe": "http://187.122.248.215:8092/portal_pmgopa/app/portal_transparencia/0002"
+    }
+  ]
+}

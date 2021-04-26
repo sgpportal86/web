@@ -1,0 +1,40 @@
+{
+  "linkIframe": [
+    {
+      "name": "Lei Orgânica Municipal",
+      "link": "",
+      "iconImage": "fas fa-building",
+      "linkIframe": "http://187.122.248.215:8092/portal_pmgopa/app/portal_transparencia/0025"
+    },
+    {
+      "name": "Lei Regulamentadora da LAI",
+      "link": "",
+      "iconImage": "fas fa-laptop-house",
+      "linkIframe": "http://187.122.248.215:8092/portal_pmgopa/app/portal_transparencia/0026"
+    },
+    {
+      "name": "Leis Municipais Vigentes",
+      "link": "",
+      "iconImage": "fas fa-info",
+      "linkIframe": "http://187.122.248.215:8092/portal_pmgopa/app/portal_transparencia/0027"
+    },
+    {
+      "name": "Legislação de Pessoal",
+      "link": "",
+      "iconImage": "fas fa-user-tie",
+      "linkIframe": "http://187.122.248.215:8092/portal_pmgopa/app/portal_transparencia/0029"
+    },
+    {
+      "name": "Normativos Sobre Diárias",
+      "link": "",
+      "iconImage": "fab fa-wpforms",
+      "linkIframe": "http://187.122.248.215:8092/portal_pmgopa/app/portal_transparencia/0030"
+    },
+    {
+      "name": "Decretos Municipais e Portarias",
+      "link": "",
+      "iconImage": "fas fa-folder-open",
+      "linkIframe": "http://187.122.248.215:8092/portal_pmgopa/app/portal_transparencia/0028"
+    }
+  ]
+}
